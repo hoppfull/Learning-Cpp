@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1408819134 source:d:\storage\creations\cpp\tutorial3\ex01\src\testclass.cpp
+	"TestClass.h"
+	<iostream>
+
+1408819108 d:\storage\creations\cpp\tutorial3\ex01\include\testclass.h
+
+1408819112 source:d:\storage\creations\cpp\tutorial3\ex01\main.cpp
+	<iostream>
+	"TestClass.h"
+
+1408822922 source:d:\storage\creations\cpp\tutorial3\ex02\main.cpp
+	<iostream>
+	"SuperClass.h"
+
+1408822852 d:\storage\creations\cpp\tutorial3\ex02\include\superclass.h
+	"SubClass.h"
+
+1408821605 d:\storage\creations\cpp\tutorial3\ex02\include\subclass.h
+
+1408822302 source:d:\storage\creations\cpp\tutorial3\ex02\src\subclass.cpp
+	"SubClass.h"
+	<iostream>
+
+1408822939 source:d:\storage\creations\cpp\tutorial3\ex02\src\superclass.cpp
+	"SuperClass.h"
+
+1408822302 source:d:\storage\creations\cpp\tutorial3\ex01 - member initialization\src\subclass.cpp
+	"SubClass.h"
+	<iostream>
+
+1408821605 d:\storage\creations\cpp\tutorial3\ex01 - member initialization\include\subclass.h
+
+1408824299 source:d:\storage\creations\cpp\tutorial3\ex01 - member initialization\main.cpp
+	<iostream>
+	"SuperClass.h"
+
+1408824333 d:\storage\creations\cpp\tutorial3\ex01 - member initialization\include\superclass.h
+
+1408824271 source:d:\storage\creations\cpp\tutorial3\ex01 - member initialization\src\superclass.cpp
+	"SuperClass.h"
+	<iostream>
+

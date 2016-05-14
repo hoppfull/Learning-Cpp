@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1408879608 source:d:\storage\creations\cpp\tutorial3\ex04\main.cpp
+	<iostream>
+	"SubExample.h"
+
+1408879357 d:\storage\creations\cpp\tutorial3\ex04\include\subexample.h
+	"SuperExample.h"
+
+1408879665 d:\storage\creations\cpp\tutorial3\ex04\include\superexample.h
+
+1408879447 source:d:\storage\creations\cpp\tutorial3\ex04\src\subexample.cpp
+	"SubExample.h"
+	"SuperExample.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408872861 source:d:\storage\creations\cpp\tutorial3\ex03\src\superclass.cpp
+	"SuperClass.h"
+	<iostream>
+
+1408872913 d:\storage\creations\cpp\tutorial3\ex03\include\superclass.h
+
